@@ -47,8 +47,8 @@ Bu projede amacımız:
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn
 
-## Katkıda Bulunanlar
-Teymur Mammadov - Proje sahibi ve geliştirici
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+
+## 👨‍💻 Geliştirici
+
+**Teymur Mammadov** 
